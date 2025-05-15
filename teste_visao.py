@@ -2,6 +2,7 @@ import cv2
 from ultralytics import YOLO
 import time
 import numpy as np
+#Fique atendo a instalação das bibliotecas a cima. Utilize o comando pip install para realizar suas respectivas instalações.
 
 # Carrega o modelo YOLO
 model = YOLO("yolov8n.pt")
