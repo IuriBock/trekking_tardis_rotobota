@@ -1,10 +1,9 @@
 # trekking_tardis_rotobota
 **Trekking Robot Project by ROBOTA UFSC** 
 
-## Tardis
-
 Este repositório contém o código-fonte e documentação para o projeto de Trekking desenvolvido pela Equipe Robota.
 
+## Tardis
 ## Sobre o Projeto
 
 O projeto do Robô Trekking visa desenvolver um veiculo autônomo para competições de robótica. Este sistema permite que o robô se mova de forma autônoma em ambientes diversos, utilizando sensores e algoritmos.
