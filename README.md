@@ -1,5 +1,7 @@
-# trekking_tardis_robota
+# trekking_tardis_rotobota
 Trekking Robot Project by ROBOTA UFSC
+
+### Tardis
 
 Este repositório contém o código-fonte e documentação para o projeto de Robo Trekking desenvolvido pela Equipe Robota.
 
