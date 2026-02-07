@@ -1,36 +1,53 @@
 # trekking_tardis_rotobota
-Trekking Robot Project by ROBOTA UFSC
+**Trekking Robot Project by ROBOTA UFSC** ###Tardis
 
-## Tardis
 
-Este repositório contém o código-fonte e documentação para o projeto de Robo Trekking desenvolvido pela Equipe Robota.
+Este repositório contém o código-fonte e documentação para o projeto de Trekking desenvolvido pela Equipe Robota.
 
-Sobre o Projeto
-O projeto do Robô Trekking visa desenvolver um veiculo autônomo para competições de robótica. Este sistema permite que o robô se mova de forma autônoma em ambientes diversos, utilizando sensores e algoritmos de processamento de imagens.
+## Sobre o Projeto
 
-Funcionalidades Principais
-Controle Autônomo: Os robôs podem ser controlados autonomamente com base nas informações de rastreamento, permitindo a navegação em ambientes dinâmicos e desconhecidos.
+O projeto do Robô Trekking visa desenvolver um veiculo autônomo para competições de robótica. Este sistema permite que o robô se mova de forma autônoma em ambientes diversos, utilizando sensores e algoritmos.
 
-Integração com Sensores: O sistema pode ser integrado com uma variedade de sensores, como câmeras, sonares e sensores de proximidade, para melhorar a precisão e robustez do rastreamento.
+## Funcionalidades Principais
 
-Instalação
-Clonar o Repositório: Clone este repositório em seu ambiente local utilizando o comando:
+  
+- **Controle Autônomo**: Os robôs podem ser controlados autonomamente com base nas informações de rastreamento, permitindo a navegação em ambientes dinâmicos e desconhecidos.
 
-git clone https://github.com/IuriBock/trekking_tardis_rotobota.git
-Instalar Dependências: Navegue até o diretório do projeto e instale as dependências utilizando o gerenciador de pacotes pipenv para instalar as dependencias e criar um env automaticamente. ''' cd ../trekking_tardis_robota pipenv install '''
+- **Integração com Sensores**: O sistema pode ser integrado com uma variedade de sensores, como câmeras, sonares e sensores de proximidade, para melhorar a precisão e robustez do rastreamento.
 
-Executar o env: execute o comando. ''' pipenv shell '''
+## Instalação
 
-Executar o Sistema: Execute o sistema utilizando o comando apropriado para sua configuração. Certifique-se de ter configurado corretamente os dispositivos de entrada, como câmeras ou sensores.
+1. **Clonar o Repositório**: Clone este repositório em seu ambiente local utilizando o comando:
+   ```
+   git clone https://github.com/IuriBock/trekking_tardis_rotobota.git
+   ```
 
-python3 main.py
-Contribuição
+2. **Instalar Dependências**: Navegue até o diretório do projeto e instale as dependências utilizando o gerenciador de pacotes pipenv para instalar as dependencias e criar um env automaticamente.
+   '''
+   cd ../trekking_tardis_rotobota
+   pipenv install 
+   '''
+
+3. **Executar o env**: execute o comando.
+   '''
+   pipenv shell
+   '''
+
+4. **Executar o Sistema**: Execute o sistema utilizando o comando apropriado para sua configuração. Certifique-se de ter configurado corretamente os dispositivos de entrada, como câmeras ou sensores.
+   ```
+   python3 main.py
+   ```
+
+## Contribuição
+
 Para contribuir, siga estas etapas:
 
-Faça um fork do repositório.
-Crie uma branch para sua feature (git checkout -b feature/sua-feature).
-Faça commit de suas alterações (git commit -am 'Adicione uma nova feature').
-Faça push para a branch (git push origin feature/sua-feature).
-Abra um pull request.
-Contato
-Para mais informações sobre o projeto, entre em contato com a Equipe Robota em robota.das.ufsc@gmail.com.
+1. Faça um fork do repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
+3. Faça commit de suas alterações (`git commit -am 'Adicione uma nova feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um pull request.
+
+## Contato
+
+Para mais informações sobre o projeto, entre em contato com a Equipe Robota em [robota.das.ufsc@gmail.com](mailto:robota.das.ufsc@gmail.com).
